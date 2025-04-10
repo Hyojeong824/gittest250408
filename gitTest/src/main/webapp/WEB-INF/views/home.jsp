@@ -16,8 +16,8 @@
 <h1>eclipse update</h1>
 
 
-<h1>githup update</h1>
-<h1>githup update2</h1>
+<h1>github update</h1>
+<h1>github update2</h1>
 
 <h1>eclipse update2</h1>
 
